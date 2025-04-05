@@ -7,3 +7,5 @@ V
 &contracts/production-verification.clar,6/5/65ea5c2b7d27ac9bd92d56cc9c04c01c1934e1a1
 T
 $tests/insurance-verification.test.ts,f/a/fa8c91147948aeb84c4ec2186663c120d54942bc
+O
+contracts/rental-agreement.clar,2/9/2943c1f8db365a88761a1e4100e82cf77fc6d128
